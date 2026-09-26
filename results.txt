@@ -1,0 +1,10 @@
+SYNTHETIC PIPELINE RESULT
+valid_rows=100
+pearson_r=0.8553
+pearson_p=9.68188e-30
+study_hours_coefficient=5.5479
+study_hours_ci95=[4.8983, 6.1974]
+study_hours_p=9.25304e-31
+r_squared=0.7516
+robust_valid_rows=98
+robust_study_hours_coefficient=5.4876
